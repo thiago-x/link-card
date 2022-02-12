@@ -54,7 +54,7 @@
 }
 
 .nav ul{
-    max-width: max-content;
+    max-width: 450px;
     margin: 0 auto;
     padding-top: 15px;
 }
@@ -62,7 +62,6 @@
 .nav ul li{
     margin: 15px;
     background: #ec8f97;
-    width: 450px;
     padding: 15px 25px;
     border: 2px solid #fff;
     transition: .5s;
